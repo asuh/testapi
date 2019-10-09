@@ -1,92 +1,94 @@
-[
-    {
-        "trackingGroup": 2034193505.0,
-        "display": "BD ED Dept",
-        "avgMin": 10.90,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 1816841975.0,
-        "display": "BL ED Dept",
-        "avgMin": 12.11,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 347967115.0,
-        "display": "CA ED Dept",
-        "avgMin": 6.42,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 707650862.0,
-        "display": "CB ED Dept",
-        "avgMin": 9.44,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 781646.0,
-        "display": "CN ED Dept",
-        "avgMin": 17.07,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 367455.0,
-        "display": "CW ED Dept",
-        "avgMin": 11.34,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 05852127.0,
-        "display": "FR ED Dept",
-        "avgMin": 15.86,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 565906331.0,
-        "display": "JC ED Dept",
-        "avgMin": 21.92,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 1149137.0,
-        "display": "MH ED Dept",
-        "avgMin": 6.62,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 19374520.0,
-        "display": "MO ED Dept",
-        "avgMin": 6.31,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 17342822.0,
-        "display": "PH ED Dept",
-        "avgMin": 10.25,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 993689.0,
-        "display": "RI ED Dept",
-        "avgMin": 6.75,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 15223601.0,
-        "display": "TH ED Dept",
-        "avgMin": 16.24,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 15234645.0,
-        "display": "WT ED Dept",
-        "avgMin": 10.78,
-        "extractDt": "2019-10-07T12:56:12"
-    },
-    {
-        "trackingGroup": 9167341.0,
-        "display": "XH ED Dept",
-        "avgMin": 17.27,
-        "extractDt": "2019-10-07T12:56:12"
-    }
-]
+{
+	[
+	    {
+	        "trackingGroup": 2034193505.0,
+	        "display": "BD ED Dept",
+	        "avgMin": 10.90,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 1816841975.0,
+	        "display": "BL ED Dept",
+	        "avgMin": 12.11,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 347967115.0,
+	        "display": "CA ED Dept",
+	        "avgMin": 6.42,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 707650862.0,
+	        "display": "CB ED Dept",
+	        "avgMin": 9.44,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 781646.0,
+	        "display": "CN ED Dept",
+	        "avgMin": 17.07,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 367455.0,
+	        "display": "CW ED Dept",
+	        "avgMin": 11.34,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 05852127.0,
+	        "display": "FR ED Dept",
+	        "avgMin": 15.86,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 565906331.0,
+	        "display": "JC ED Dept",
+	        "avgMin": 21.92,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 1149137.0,
+	        "display": "MH ED Dept",
+	        "avgMin": 6.62,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 19374520.0,
+	        "display": "MO ED Dept",
+	        "avgMin": 6.31,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 17342822.0,
+	        "display": "PH ED Dept",
+	        "avgMin": 10.25,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 993689.0,
+	        "display": "RI ED Dept",
+	        "avgMin": 6.75,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 15223601.0,
+	        "display": "TH ED Dept",
+	        "avgMin": 16.24,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 15234645.0,
+	        "display": "WT ED Dept",
+	        "avgMin": 10.78,
+	        "extractDt": "2019-10-07T12:56:12"
+	    },
+	    {
+	        "trackingGroup": 9167341.0,
+	        "display": "XH ED Dept",
+	        "avgMin": 17.27,
+	        "extractDt": "2019-10-07T12:56:12"
+	    }
+	]
+}
